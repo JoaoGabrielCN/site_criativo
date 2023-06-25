@@ -1,0 +1,56 @@
+.texto_centro{
+
+    font-size: 18px;
+    color: white; 
+    margin-left: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
+    margin-right: 55px;
+    text-align: justify;
+    margin-top: 2% ;
+
+  }
+  .subtopico{
+    text-align: left;
+    font-size:30px;
+    color: white;
+    margin-top: 75px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texto_esquerda{
+    font-size: 18px;
+    color: white; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 20px;
+    margin-right: 450px;
+    margin-top: 50px;
+   
+  }
+  .imagem_direita {
+    float: right;
+    margin-right: 75px;
+    margin-left: 20px;
+    border: 2px solid;
+    border-color: white;
+    margin-top: 2%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
+    
+  }
+
+  .imagem_esquerda{
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    border: 2px solid;
+    border-color: white;
+   
+  }
+
+  .texto_direita{
+    font-size: 18px;
+    color: white; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
+    margin-right: 50px;
+    margin-left: 390px;
+  }
